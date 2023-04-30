@@ -38,7 +38,7 @@ This file was completed during week 4 and part of week 5. Here I am completing t
 This file is a single bokeh interactive visualization. The reason I have this one standing alone was due to many hours of errors and troubleshooting done with this particualr visual. When combining this visual into my larger worksheet, I was getting data source errors. After spending alont a whole week just on this one visualization, I decided to leave it our of the larger worksheet and to avoid dealing with troubleshooting more errors. 
 
 - (FINAL) Interactive Visualizations
-This contains the majority of the final interactive visualizations I created in Bokeh. They are all combine into one workbook, and have thier own named tabs for each. 
+This contains the rest of the final interactive visualizations I created in Bokeh. They are all combine into one workbook, and have thier own named tabs for each. 
 
 ## The Bokeh tools used in my visualizaitons and an explaination of what they do:
 - Hover: displays informational tooltips
@@ -63,6 +63,9 @@ Then run the following:
 bokeh serve --show [file name]
 
 After this a window in your browser should appear, showing the visuals. 
+
+## Video Presentation
+https://drive.google.com/file/d/1PFN_0hPcfYZmRtGieboPJmW2mVAdhsJU/view?usp=sharing
 
 ## References:
 
