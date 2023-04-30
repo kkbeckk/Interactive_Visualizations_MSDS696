@@ -63,3 +63,11 @@ Then run the following:
 bokeh serve --show [file name]
 
 After this a window in your browser should appear, showing the visuals. 
+
+## References:
+
+Bokeh documentation. Bokeh. (n.d.). Retrieved April 30, 2023, from https://docs.bokeh.org/en/latest/ 
+
+Young, Joe, and Adam Youg. “Rain in Australia.” Kaggle, 2010, https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package. Accessed 10 Feb. 2023. 
+<img width="1353" alt="image" src="https://user-images.githubusercontent.com/84113402/235372200-95b284d5-b978-4c75-a2a1-0fa3b0f45096.png">
+
