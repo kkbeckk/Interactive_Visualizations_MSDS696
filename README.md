@@ -40,6 +40,9 @@ This file is a single bokeh interactive visualization. The reason I have this on
 - (FINAL) Interactive Visualizations
 This contains the rest of the final interactive visualizations I created in Bokeh. They are all combine into one workbook, and have thier own named tabs for each. 
 
+- (FINAL) Interactive Visualizations - (without Bokeh Server)
+If you cannot get the bokeh server to run in your terminal, this notebook calls the visuals to display by opening each visual in a new browser window.
+
 ## The Bokeh tools used in my visualizaitons and an explaination of what they do:
 - Hover: displays informational tooltips
 - Crosshair: draws a crosshair annotation over the plot
